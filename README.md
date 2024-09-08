@@ -1,4 +1,4 @@
-# TwitterDupe - Proyecto de Prueba Técnica
+# Kanban - Proyecto de Prueba Técnica
 
 ## Descripción
 
